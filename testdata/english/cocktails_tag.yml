@@ -1,0 +1,32 @@
+-
+    id: '1'
+    name: 'refreshing'
+    slug: 'refreshing'
+-
+    id: '2'
+    name: 'citrus'
+    slug: 'citrus'
+-
+    id: '3'
+    name: 'summer'
+    slug: 'summer'
+-
+    id: '4'
+    name: 'rum'
+    slug: 'rum'
+-
+    id: '5'
+    name: 'classic'
+    slug: 'classic'
+-
+    id: '6'
+    name: 'strong'
+    slug: 'strong'
+-
+    id: '7'
+    name: 'tropical'
+    slug: 'tropical'
+-
+    id: '8'
+    name: 'alcohol-free'
+    slug: 'alcohol-free'

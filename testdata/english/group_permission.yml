@@ -1,0 +1,95 @@
+-
+    gperm_groupid: '1'
+    gperm_itemid: '1'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_view'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '1'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_view'
+-
+    gperm_groupid: '3'
+    gperm_itemid: '1'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_view'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '8'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '8'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '16'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '32'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '32'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '64'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '64'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_ac'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '1'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '1'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '3'
+    gperm_itemid: '1'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '2'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '2'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '3'
+    gperm_itemid: '2'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '1'
+    gperm_itemid: '3'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '2'
+    gperm_itemid: '3'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
+-
+    gperm_groupid: '3'
+    gperm_itemid: '3'
+    gperm_modid: '0'
+    gperm_name: 'cocktails_read'
